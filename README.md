@@ -47,12 +47,12 @@
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/.../" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" alt="linkedin" />
+      <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" title="linkedin" alt="linkedin" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/vi_dovgal" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="40" height="40" alt="telegram" />
+      <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" title="telegram" alt="telegram" width="40" height="40" alt="telegram" />
     </a>
     <a href="mailto:dovgalviktory@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="40" height="40" alt="gmail" />
+      <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" title="gmail" alt="gmail" width="40" height="40" alt="gmail" />
     </a>
   </div>
