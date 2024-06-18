@@ -10,19 +10,19 @@
 
 ### Дополнительное образование и курсы:
 
-- [Курс] (...) "Функциональное тестирование ПО" от Артёма Русова
+- [Курс](...) "Функциональное тестирование ПО" от Артёма Русова
 
 ---
 
 ### 📁 Тестовые артефакты:
 
-- [Тестирование веб-приложения] (https://github.com/VikaDov/web.git)
-- [Тестирование REST и SOAP API c использованием Postman] (https://github.com/VikaDov/api.git)
-- [Работа с MySQL] (https://github.com/VikaDov/database.git)
-- [Работа с MongoDB] (https://github.com/VikaDov/database.git)
-- [Тестирование мобильного приложения] (https://github.com/VikaDov/mobile.git)
-- [Работа со сниффером CharlesProxy] (https://github.com/VikaDov/charlesProxy.git)
-- [Работа с Bash] (https://github.com/VikaDov/git_bash.git)
+- [Тестирование веб-приложения](https://github.com/VikaDov/web.git)
+- [Тестирование REST и SOAP API c использованием Postman](https://github.com/VikaDov/api.git)
+- [Работа с MySQL](https://github.com/VikaDov/database.git)
+- [Работа с MongoDB](https://github.com/VikaDov/database.git)
+- [Тестирование мобильного приложения](https://github.com/VikaDov/mobile.git)
+- [Работа со сниффером CharlesProxy](https://github.com/VikaDov/charlesProxy.git)
+- [Работа с Bash](https://github.com/VikaDov/git_bash.git)
 
 ### 👩🏻‍💻 Инструменты тестирования, которые я использую:
 
@@ -45,7 +45,7 @@
 
 ### 📩 Как связаться со мной:
 
-  <div id="badges">
+  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/.../" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" alt="linkedin" />
     </a>
