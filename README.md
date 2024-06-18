@@ -45,7 +45,7 @@
 
 ### 📩 Как связаться со мной:
 
-  <div id="badges" align="center">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/.../" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" title="linkedin" alt="linkedin" width="40" height="40" alt="linkedin" />
     </a>
