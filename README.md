@@ -43,7 +43,7 @@
 
 ---
 
-### 📩 Как связаться со мной:
+                                                                ### 📩 Как связаться со мной:
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/.../" target="_blank">
