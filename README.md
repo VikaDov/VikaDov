@@ -56,3 +56,20 @@
       <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" title="gmail" alt="gmail" width="40" height="40" alt="gmail" />
     </a>
   </div>
+
+
+
+<p>
+    <a href="https://www.linkedin.com/in/.../" target="_blank">
+      <img src="https://img.icons8.com/?size=512&id=13930&format=png" title="linkedin" alt="linkedin" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/vi_dovgal" target="_blank">
+      <img src="https://img.icons8.com/?size=512&id=63306&format=png" title="telegram" alt="telegram" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="mailto:dovgalviktory@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" title="gmail" alt="gmail" width="40" height="40" alt="gmail" />
+    </a>
+  </p>
+  
+
+  
