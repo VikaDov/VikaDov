@@ -22,7 +22,7 @@
 - [Работа с MySQL](https://github.com/VikaDov/database.git)
 - [Работа с MongoDB](https://github.com/VikaDov/database.git)
 - [Тестирование мобильного приложения](https://github.com/VikaDov/mobile.git)
-- [Работа со сниффером CharlesProxy](https://github.com/VikaDov/charlesProxy.git)
+- [Работа со сниффером Charles Proxy](https://github.com/VikaDov/charlesProxy.git)
 - [Работа с Bash](https://github.com/VikaDov/git_bash.git)
 
 ### 👩🏻‍💻 Инструменты тестирования, которые я использую:
